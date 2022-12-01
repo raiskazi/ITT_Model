@@ -1,3 +1,4 @@
 Flicker8k_Dataset/
 Flickr8k_text/
 features.pkl
+*.pkl
